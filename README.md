@@ -1,4 +1,5 @@
 # ETHDenver Hackathon Notes
+![alt text](./docs/image/SCDiagram.jpg)
 # Deployments
 Verify proof 0x7897e2050b129DC4934fe815807FC0Fe1C291194
 https://blockscout.scroll.io/address/0x7897e2050b129DC4934fe815807FC0Fe1C291194
